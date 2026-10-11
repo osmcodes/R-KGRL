@@ -1,5 +1,8 @@
 # R-KGRL
 
+Dataset available at: just download and use the dataset from "Google drive" data folder to local repository.
+https://drive.google.com/drive/folders/1Glu03cg9zn1gpmrfpgxe0ZZ26GWQjSxR?usp=sharing
+
 Take the dataset DBP15K (ZH-EN) as an example, the folder "zh_en" contains:
 * ent_ids_1: ids for entities in source KG;
 * ent_ids_2: ids for entities in target KG;
