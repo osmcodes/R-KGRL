@@ -1,9 +1,5 @@
 # R-KGRL
 
-# R-KGRL
-
-
-
 Take the dataset DBP15K (ZH-EN) as an example, the folder "zh_en" contains:
 * ent_ids_1: ids for entities in source KG;
 * ent_ids_2: ids for entities in target KG;
