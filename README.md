@@ -14,6 +14,7 @@ Take the dataset DBP15K (ZH-EN) as an example, the folder "zh_en" contains:
 
 * Python>=3.5
 * Tensorflow>=1.8.0
+* NetworkX
 * Scipy
 * Numpy
 
